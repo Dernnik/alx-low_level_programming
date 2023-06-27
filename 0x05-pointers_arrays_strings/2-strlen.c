@@ -1,15 +1,15 @@
-#include "main.h"
+#include "holberton.h"
+
 /**
- * _strlen - returns the length of a string
- * @s: the string to be measured
- * Return: the length of the string
+ * _strlen - returns the length of a string.
+ * @s: input string.
+ * Return: length of a string.
  */
 int _strlen(char *s)
 {
-	int len = 0;
+	int longi = 0;
 
-	while (*s)
-
-	s++;
-	len++;
-	}
+	while (*(s != '\0')
+		longi++;
+	return (longi);
+}
