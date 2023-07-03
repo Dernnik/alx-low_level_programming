@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- * print_chessboard - print the dashboard
- * @a: array of characters
- *
- * Description: a function to display the chessboard
+ * print_chessboard - Entry point
+ * @a: array
  * Return: No return
  */
 void print_chessboard(char (*a)[8])
